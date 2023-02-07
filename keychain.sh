@@ -6,7 +6,7 @@
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon 🤖
+# @raycast.icon 🔑
 # @raycast.argument1 { "type": "text", "placeholder": "Placeholder" }
 # @raycast.packageName Developer Utils
 
@@ -15,5 +15,4 @@
 # @raycast.author miketako3
 # @raycast.authorURL https://github.com/miketako3
 
-echo "Hello World! Argument1 value: "$1""
-
+security find-generic-password -s "$1" -w | pbcopy

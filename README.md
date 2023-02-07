@@ -1,3 +1,3 @@
-# Get From Keychain 
+# Get From Keychain
 
-This extension enable us to get keys from Keychain to clipboard via Raycast.
+This script command enables us to get keys from Keychain to clipboard via Raycast.
