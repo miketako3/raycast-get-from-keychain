@@ -1,7 +1,7 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "get-from-keychain",
-  "title": "Get From Keychain ",
+  "title": "Get From Keychain",
   "description": "This extension enable us to get keys from Keychain to clipboard via Raycast.",
   "icon": "command-icon.png",
   "author": "miketako3",
